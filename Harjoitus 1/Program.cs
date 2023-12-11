@@ -4,3 +4,4 @@ Console.WriteLine("Moikka Jenna! ");
 Console.WriteLine(@" /\_/\
 ( o.o )
  > ^ < ");
+Console.WriteLine("Söpö kissa! :3");
